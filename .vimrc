@@ -595,3 +595,4 @@ if filereadable(expand("$HOME/.vim/testingstuff.vim"))
   echo ""
   so ~/.vim/testingstuff.vim
 endif
+" yup
